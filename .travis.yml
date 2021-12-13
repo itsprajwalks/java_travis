@@ -11,3 +11,4 @@ jobs:
   include:
     - stage: Test
       script: ./mvnw clean test
+      
